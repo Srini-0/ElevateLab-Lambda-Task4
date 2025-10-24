@@ -1,5 +1,5 @@
 
-# ElevateLab AWS Lambda Task 4  – Deploy a Serverless Function to AWS Lambda
+# ElevateLab AWS Lambda Task 4  – Deploy a Serverless Function 
 
 ## Objective
 This repository contains a **serverless AWS Lambda function** deployed as part of ElevateLab Task 4.  
