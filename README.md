@@ -28,6 +28,7 @@ The function demonstrates event-driven architecture, HTTP triggers, and returns 
 3. Click **Create function**  
 
 **Screenshot:**  
+
 ![Create Function](Assets/create-function.png)
 
 ---
@@ -56,7 +57,8 @@ def lambda_handler(event, context):
     }
 ```
 
-**Screenshot:**  
+**Screenshot:**
+
 ![Code Editor](Assets/code-editor.png)
 
 ---
@@ -68,8 +70,10 @@ def lambda_handler(event, context):
 3. Auth type: **NONE** (for testing).
 4. Click **Save** → copy the generated URL.
 
-**Screenshot:**  
+**Screenshot:**
+
 ![Function URL](Assets/function-url.png)
+
 
 ![Function URL](Assets/function-dashboard.png)
 
@@ -91,7 +95,8 @@ You’ll see:
 ```
 
 **Screenshot:**  
-![Function Output](Assets/test-output.pn)
+
+![Function Output](Assets/test-output.png)
 
 ---
 
